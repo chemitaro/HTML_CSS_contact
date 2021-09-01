@@ -1,0 +1,45 @@
+
+.contact_wrapper{
+  width: 100%;
+}
+
+.contact_form tr{
+  height: 7rem;
+
+}
+
+.contact_form th{
+  width: 150px;
+  text-align: right;
+
+}
+
+.contact_form td{
+  padding-left: 10px;
+  width: 480px;
+
+}
+
+.contact_input{
+  width: 100%;
+
+}
+
+.contact_form textarea{
+  height: 4rem;
+
+}
+
+.contact_button{
+  font-size: 3rem;
+  padding: 10px;
+  border: 0px solid;
+  background-color: #008B8B;
+  color: white;
+  display: block;
+  margin: 0 auto;
+}
+
+.contact_button:hover{
+  opacity: 0.5;
+}
